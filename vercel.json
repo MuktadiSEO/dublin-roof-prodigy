@@ -6,8 +6,5 @@
   "framework": null,
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/handler" }
-  ],
-  "functions": {
-    "api/handler.ts": { "runtime": "edge" }
-  }
+  ]
 }
