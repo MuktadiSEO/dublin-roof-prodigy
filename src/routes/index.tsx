@@ -21,8 +21,8 @@ function Home() {
     <SiteLayout>
       {/* Hero */}
       <section className="relative h-[88vh] min-h-[560px] flex items-center text-white overflow-hidden">
-        <img src="https://images.unsplash.com/photo-1632759145355-8b8f3ab6c5f6?w=1920&q=80" alt="Roofing in Dublin" className="absolute inset-0 w-full h-full object-cover" />
-        <div className="absolute inset-0 bg-gradient-to-r from-charcoal/90 via-charcoal/70 to-charcoal/40" />
+        <img src="https://images.unsplash.com/photo-1605152276897-4f618f831968?w=1920&q=80" alt="Dublin rooftops at dusk" className="absolute inset-0 w-full h-full object-cover" />
+        <div className="absolute inset-0 bg-gradient-to-r from-charcoal/95 via-charcoal/80 to-charcoal/50" />
         <div className="relative z-10 max-w-7xl mx-auto px-4 w-full">
           <div className="max-w-2xl fade-in-up">
             <div className="inline-block bg-amber-brand text-charcoal px-3 py-1 rounded text-sm font-semibold mb-5">
